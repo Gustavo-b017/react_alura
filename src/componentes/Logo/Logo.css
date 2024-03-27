@@ -1,0 +1,17 @@
+
+div  .logo {
+  background-color: #FFF;
+  display: flex;
+}
+
+.logo {
+  padding: 1rem 0.5rem;
+  display: flex;
+  font-size: 2rem;
+}
+
+.logo {
+  gap: 1rem;
+  display: flex;
+  font-size: 2rem;
+}
